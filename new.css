@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(175, 215, 119) ;
+   
+}
+tr{
+    background-color: azure;
+
+}
+
+button{
+    border-radius: 20px;
+    background-color:rgb(128, 153, 144);
+}
+div{
+    background-color:rgb(175, 215, 119) ;
+}
+table{
+    margin: auto;
+}
+.container{
+    text-align: center;
+    margin-top:23px
+}
+h1{
+    color: rgb(142, 51, 216);
+}
